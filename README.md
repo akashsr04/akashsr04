@@ -56,7 +56,7 @@ I'm a passionate developer who loves building full-stack web applications, AI/ML
 
 | Technology | Technology | Technology | Technology |
 |:---:|:---:|:---:|:---:|
-| ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) | ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) | ![LoRa](https://img.shields.io/badge/LoRa-0078D4?style=for-the-badge&logo=semtech&logoColor=white) |
+| ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 ### 🤖 Android Development
 
 | Technology | Technology |
@@ -92,7 +92,7 @@ I'm a passionate developer who loves building full-stack web applications, AI/ML
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**S-AQS**](https://github.com/akashsr04) | Stationary Air Quality Monitoring System with IoT sensor nodes, MQTT data ingestion, and a REST API backend | `Node.js` `Express` `MongoDB` `MQTT` `ESP32` | 
+| [**S-AQS**](https://github.com/akashsr04) | Stationary Air Quality Monitoring System with IoT sensor nodes configurable with an Android App | `Flutter` `Node.js` `Express` `MongoDB `ESP32` | 
 | [**Aces Webapp**](https://github.com/akashsr04/Aces_webapp) | MERN full-stack event registration platform for a CS department — live on Vercel | `React` `Node.js` `Express` `MongoDB` |
 | [**Smartdrop**](https://github.com/akashsr04/smartdrop) | IoT-powered smart delivery system with an Android companion app | `JavaScript` `Kotlin` `Android` |
 | [**Goalify**]( https://goalify-frontend.onrender.com/) | Developed a full-stack web application for managing targets by dividing an agenda into yearly, monthly, weekly and daily goals using MERN stack and REST API.| `React`, `Node.js`, `Express`, `MongoDB` |
