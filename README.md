@@ -76,8 +76,7 @@ I'm a passionate developer who loves building full-stack web applications, AI/ML
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsr04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs" height="180" alt="Akash's GitHub Stats" />
-  &nbsp;&nbsp;
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsr04&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
@@ -93,13 +92,13 @@ I'm a passionate developer who loves building full-stack web applications, AI/ML
 | Project | Description | Tech Stack |
 |---|---|---|
 | [**S-AQS**](https://github.com/akashsr04) | Stationary Air Quality Monitoring System with IoT sensor nodes configurable with an Android App | `Flutter` `Node.js` `Express` `MongoDB `ESP32` | 
-| [**Aces Webapp**](https://github.com/akashsr04/Aces_webapp) | MERN full-stack event registration platform for a CS department — live on Vercel | `React` `Node.js` `Express` `MongoDB` |
-| [**Smartdrop**](https://github.com/akashsr04/smartdrop) | IoT-powered smart delivery system with an Android companion app | `JavaScript` `Kotlin` `Android` |
+| [**Aces Webapp**](https://github.com/akashsr04/Aces_webapp) | MERN full-stack event registration platform for a CS department| `React` `Node.js` `Express` `MongoDB` |
+| [**Smartdrop**](https://github.com/akashsr04/smartdrop) | Smart Domestic Water Management system which uses an HC-SR04 sensor and an Android App buit using Kotlin through which the user can monitor the live water level in their tank and get notifications when the water level is low via FCM Cloud Messaging. | `MongoDB``Node.js` `Express.js` `Kotlin` `Android` |
 | [**Goalify**]( https://goalify-frontend.onrender.com/) | Developed a full-stack web application for managing targets by dividing an agenda into yearly, monthly, weekly and daily goals using MERN stack and REST API.| `React`, `Node.js`, `Express`, `MongoDB` |
-| [**ESP32 Sensor Server**](https://github.com/akashsr04/ESP32-Ultrasonic-Sensor-Web-Server) | Real-time distance monitoring via ESP32 & ultrasonic sensor on a local web server | `C++` `ESP32` `HTML` |
 | [**Review Sentiment Analyser**](https://github.com/akashsr04/Review-Sentiment-Analyser) | NLP-based sentiment classification model for product reviews | `Python` `NLP` `Jupyter` |
 | [**Loan Predictor**](https://github.com/akashsr04/Loan-Predictor) | Machine learning model to predict loan approval outcomes | `Python` `scikit-learn` |
-
+| [**ESP32 Sensor Server**](https://github.com/akashsr04/ESP32-Ultrasonic-Sensor-Web-Server) | Real-time distance monitoring via ESP32 & ultrasonic sensor on a local web server | `C++` `ESP32` `HTML` |
+| [**Stopwatch**](https://drive.google.com/file/d/1GKnliCxX8cM4LDT9UpYAAOq3fx7qUzGF/view) | The stopwatch which I used to time myself during workouts where so bad and lacked that modern feel that I decided to build one myself. One of my first projects | `C#` `Unity` |
 ---
 <div align="center">
 
