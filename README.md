@@ -91,9 +91,9 @@ I'm a passionate developer who loves building full-stack web applications, AI/ML
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**S-AQS**](https://github.com/akashsr04) | Stationary Air Quality Monitoring System with IoT sensor nodes configurable with an Android App | `Flutter` `Node.js` `Express` `MongoDB `ESP32` | 
+| [**S-AQS**](https://github.com/akashsr04) | Stationary Air Quality Monitoring System with IoT sensor nodes configurable with an Android App | `Flutter` `Node.js` `Express` `MongoDB` `ESP32` | 
 | [**Aces Webapp**](https://github.com/akashsr04/Aces_webapp) | MERN full-stack event registration platform for a CS department| `React` `Node.js` `Express` `MongoDB` |
-| [**Smartdrop**](https://github.com/akashsr04/smartdrop) | Smart Domestic Water Management system which uses an HC-SR04 sensor and an Android App buit using Kotlin through which the user can monitor the live water level in their tank and get notifications when the water level is low via FCM Cloud Messaging. | `MongoDB``Node.js` `Express.js` `Kotlin` `Android` |
+| [**Smartdrop**](https://github.com/akashsr04/smartdrop) | Smart Domestic Water Management system which uses an HC-SR04 sensor and an Android App buit using Kotlin through which the user can monitor the live water level in their tank and get notifications when the water level is low via FCM Cloud Messaging. | `MongoDB` `Node.js` `Express.js` `Kotlin` `Android` |
 | [**Goalify**]( https://goalify-frontend.onrender.com/) | Developed a full-stack web application for managing targets by dividing an agenda into yearly, monthly, weekly and daily goals using MERN stack and REST API.| `React`, `Node.js`, `Express`, `MongoDB` |
 | [**Review Sentiment Analyser**](https://github.com/akashsr04/Review-Sentiment-Analyser) | NLP-based sentiment classification model for product reviews | `Python` `NLP` `Jupyter` |
 | [**Loan Predictor**](https://github.com/akashsr04/Loan-Predictor) | Machine learning model to predict loan approval outcomes | `Python` `scikit-learn` |
@@ -102,7 +102,7 @@ I'm a passionate developer who loves building full-stack web applications, AI/ML
 ---
 <div align="center">
 
-*"Progress is built through repetition"*
+*"Design.Build.Test 🔁"*
 
 ⭐ **If you find my work useful, consider giving a star!** ⭐
 
